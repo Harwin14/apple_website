@@ -100,7 +100,7 @@ const Model = () => {
             <div className="flex-center">
               <ul className="color-container">
                 {models.map((item, i) => (
-                  <li
+                  <li 
                     key={i}
                     className="w-6 h-6 rounded-full mx-2 cursor-pointer"
                     style={{
