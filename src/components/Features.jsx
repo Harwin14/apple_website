@@ -20,7 +20,7 @@ const Features = () => {
             <h2 className="text-5xl xl:text-7xl font-semibold">iPhone.</h2>
             <h2 className="text-5xl xl:text-7xl font-semibold">
               Forged in titanium.
-            </h2> 
+            </h2>
           </div>
           <div className="flex-center flex-col sm:px-10">
             <div className=""></div>
