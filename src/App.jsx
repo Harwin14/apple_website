@@ -2,6 +2,7 @@ import Highlights from "./components/Highlights";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Model from "./components/Model";
+import Features from "./components/Features";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Highlights />
       <Model />
+      <Features />
     </main>
   );
 }
