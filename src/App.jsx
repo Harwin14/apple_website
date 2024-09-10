@@ -3,7 +3,8 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Model from "./components/Model";
 import Features from "./components/Features";
-import HowitWorks from "./components/HowItWorks";
+import HowItWorks from "./components/HowItWorks";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       <Highlights />
       <Model />
       <Features />
-      <HowitWorks />
+      <HowItWorks />
+      <Footer />
     </main>
   );
 }
